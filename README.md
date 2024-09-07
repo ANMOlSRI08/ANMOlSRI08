@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @ANMOlSRI08
-- 👀 I’m interested in football
-  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Football
+- 🌱 I’m currently learning Web develpment
+- 💞️ I’m looking to collaborate on Azure.
+- 📫 Contact me
+- 😄 Pronouns He/Him
+- No fun only study
 
-<!---
-ANMOlSRI08/ANMOlSRI08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
